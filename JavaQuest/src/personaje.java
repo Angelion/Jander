@@ -101,6 +101,7 @@ public class personaje {
 				totalvida=25;
 				break;
 			case 2:
+				System.out.print(nombre+"  Lv"+nivel+ "\tVIDA:");
 				raza="Enano";
 				ataque=20;
 				defensa=20;
